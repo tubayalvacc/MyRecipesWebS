@@ -11,6 +11,14 @@ This website is a collection of my favorite recipes. I hope you find something y
 - CSS
 - JavaScript
 
+- IMAGES
+ <img src="pic1.png">
+ *****************************************
+ <img src="pic2.png">
+ *****************************************
+ <img src="pic3.png">
+ 
+
 ### Getting Started
 Simply visit [your-website-url] to explore the recipes.
 
